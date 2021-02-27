@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/WebOS_demo/static/css/main.a29c29ed.chunk.css",
+    "main.js": "/WebOS_demo/static/js/main.8faeb301.chunk.js",
+    "main.js.map": "/WebOS_demo/static/js/main.8faeb301.chunk.js.map",
+    "runtime-main.js": "/WebOS_demo/static/js/runtime-main.f521dd91.js",
+    "runtime-main.js.map": "/WebOS_demo/static/js/runtime-main.f521dd91.js.map",
+    "static/css/2.14053a9d.chunk.css": "/WebOS_demo/static/css/2.14053a9d.chunk.css",
+    "static/js/2.787045c8.chunk.js": "/WebOS_demo/static/js/2.787045c8.chunk.js",
+    "static/js/2.787045c8.chunk.js.map": "/WebOS_demo/static/js/2.787045c8.chunk.js.map",
+    "index.html": "/WebOS_demo/index.html",
+    "static/css/2.14053a9d.chunk.css.map": "/WebOS_demo/static/css/2.14053a9d.chunk.css.map",
+    "static/css/main.a29c29ed.chunk.css.map": "/WebOS_demo/static/css/main.a29c29ed.chunk.css.map",
+    "static/js/2.787045c8.chunk.js.LICENSE.txt": "/WebOS_demo/static/js/2.787045c8.chunk.js.LICENSE.txt",
+    "static/media/Boat.31e53002.jpg": "/WebOS_demo/static/media/Boat.31e53002.jpg",
+    "static/media/Lake.a961b170.jpg": "/WebOS_demo/static/media/Lake.a961b170.jpg",
+    "static/media/Night.35c6495d.jpg": "/WebOS_demo/static/media/Night.35c6495d.jpg",
+    "static/media/Town.41cb53df.jpg": "/WebOS_demo/static/media/Town.41cb53df.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f521dd91.js",
+    "static/css/2.14053a9d.chunk.css",
+    "static/js/2.787045c8.chunk.js",
+    "static/css/main.a29c29ed.chunk.css",
+    "static/js/main.8faeb301.chunk.js"
+  ]
+}
