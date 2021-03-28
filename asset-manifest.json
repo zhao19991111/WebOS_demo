@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/WebOS_demo/static/css/main.a29c29ed.chunk.css",
-    "main.js": "/WebOS_demo/static/js/main.633cbd04.chunk.js",
-    "main.js.map": "/WebOS_demo/static/js/main.633cbd04.chunk.js.map",
+    "main.js": "/WebOS_demo/static/js/main.f7c6b8d1.chunk.js",
+    "main.js.map": "/WebOS_demo/static/js/main.f7c6b8d1.chunk.js.map",
     "runtime-main.js": "/WebOS_demo/static/js/runtime-main.f521dd91.js",
     "runtime-main.js.map": "/WebOS_demo/static/js/runtime-main.f521dd91.js.map",
     "static/css/2.14053a9d.chunk.css": "/WebOS_demo/static/css/2.14053a9d.chunk.css",
@@ -22,6 +22,6 @@
     "static/css/2.14053a9d.chunk.css",
     "static/js/2.1ab4b73c.chunk.js",
     "static/css/main.a29c29ed.chunk.css",
-    "static/js/main.633cbd04.chunk.js"
+    "static/js/main.f7c6b8d1.chunk.js"
   ]
 }
