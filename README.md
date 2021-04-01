@@ -6,7 +6,7 @@ Your second desktop on the browser
 * Navigate in your own WebOS with conventional window interfaces
 * Develop and publish your own native web apps embedded in the WebOS
 * Multitasking within one browser tab
+* Simple command line interfaces to execute system commands
 
 # Coming soon
 * support for multi-user system for remote collaborations
-* support for command line interface to navigate the WebOS
